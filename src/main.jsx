@@ -2,8 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
 
-import { RouterProvider } from 'react-router-dom'
-import { myBrowser } from './Router/Router.jsx'
+
 import MainPages from './Pages/MainPage.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
